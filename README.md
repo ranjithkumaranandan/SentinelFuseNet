@@ -3,7 +3,7 @@
 
 # 🛰️ SentinelFuseNet
 
-### Dual-Encoder Attention Fusion for Simultaneous Detection, Segmentation and Classification of Heterogeneous Sentinel Imagery
+### Dual-Encoder Attention Fusion for Multi-Task Sentinel Image Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.11.0-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
